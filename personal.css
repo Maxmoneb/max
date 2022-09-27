@@ -883,23 +883,23 @@ body {
 }
 
 #slide-1:checked ~ .bullets .bullets__item--1 {
-  background: #FFF;
+  background: white;
 }
 
 #slide-2:checked ~ .bullets .bullets__item--2 {
-  background: #FFF;
+  background: white;
 }
 
 #slide-3:checked ~ .bullets .bullets__item--3 {
-  background: #FFF;
+  background: white;
 }
 
 #slide-4:checked ~ .bullets .bullets__item--4 {
-  background: #FFF;
+  background: white;
 }
 
 #slide-5:checked ~ .bullets .bullets__item--5 {
-  background: #FFF;
+  background: white;
 }
 
 /*--------------------------------------------------------------
